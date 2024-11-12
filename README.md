@@ -13,7 +13,7 @@ Pong Game Remake
 - [ ] Make a script for this ball
 - [ ] it needs have an initial random moviment
 
-3) The mallets should be controled by the players
+3) The platform should be controled by the players
 
 - [ ] Make a script for the first platform can move using w a s d
 - [ ] Make a script for the second platform can move using up down left and right
