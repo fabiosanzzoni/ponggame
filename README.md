@@ -15,8 +15,8 @@ Pong Game Remake
 
 3) The platform should be controled by the players
 
-- [ ] Make a script for the first platform can move using w a s d
-- [ ] Make a script for the second platform can move using up down left and right
+- [x] Make a script for the first platform can move using w (move up) or s (move down)
+- [x] Make a script for the second platform can move using up down left and right
 
 4) The game arena.
 
