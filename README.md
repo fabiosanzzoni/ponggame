@@ -3,7 +3,7 @@ Pong Game Remake
 
 1) Basic structure of the game
 
-- [ ] Use godot engine to create the game arena.
+- [x] Use godot engine to create the game arena.
 - [ ] Create one platform (Player1)
 - [ ] Create the another platform (Player2)
 - [ ] Create the ball
