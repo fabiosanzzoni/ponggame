@@ -6,7 +6,7 @@ Pong Game Remake
 - [x] Use godot engine to create the game arena.
 - [x] Create one platform (Player1)
 - [x] Create the another platform (Player2)
-- [ ] Create the ball
+- [x] Create the ball
 
 2) Make the ball has a random moviment
 
